@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/riceapps_practice/static/css/main.1afb92d4.chunk.css",
+    "main.js": "/riceapps_practice/static/js/main.250620fe.chunk.js",
+    "main.js.map": "/riceapps_practice/static/js/main.250620fe.chunk.js.map",
+    "runtime-main.js": "/riceapps_practice/static/js/runtime-main.6507dcf9.js",
+    "runtime-main.js.map": "/riceapps_practice/static/js/runtime-main.6507dcf9.js.map",
+    "static/js/2.7eaf85d3.chunk.js": "/riceapps_practice/static/js/2.7eaf85d3.chunk.js",
+    "static/js/2.7eaf85d3.chunk.js.map": "/riceapps_practice/static/js/2.7eaf85d3.chunk.js.map",
+    "index.html": "/riceapps_practice/index.html",
+    "precache-manifest.33e03c8f28997d01b5748cac599cc121.js": "/riceapps_practice/precache-manifest.33e03c8f28997d01b5748cac599cc121.js",
+    "service-worker.js": "/riceapps_practice/service-worker.js",
+    "static/css/main.1afb92d4.chunk.css.map": "/riceapps_practice/static/css/main.1afb92d4.chunk.css.map",
+    "static/media/personal_pic.jpg": "/riceapps_practice/static/media/personal_pic.5feea43e.jpg",
+    "static/media/wiess_logo.png": "/riceapps_practice/static/media/wiess_logo.eb7816a5.png"
+  }
+}
