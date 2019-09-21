@@ -2,12 +2,16 @@
   text-align: center;
 }
 
+.pic {
+  height: 20vmin;
+}
+
 .App-logo {
   height: 40vmin;
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #6d6088;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -17,6 +21,14 @@
   color: white;
 }
 
-.App-link {
-  color: #09d3ac;
+p {
+  font-family: monospace;
+}
+
+.tino-link {
+  color: #7c0b0b;
+}
+
+.rice-link {
+  color: #30099b;
 }
